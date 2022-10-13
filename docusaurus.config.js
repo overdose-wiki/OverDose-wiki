@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `CC-BY-SA 4.0 © ${new Date().getFullYear()} Overdose.wiki Contributors. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
