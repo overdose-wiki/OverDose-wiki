@@ -9,18 +9,20 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '专与药物本身',
+    title: 'Easy to Use',
     description: (
       <>
-        我们不会在这里过多的讨论法律/伦理问题，我们会专注于提供药物药理、效果、副作用、危害等药物本身的科普
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: '仅仅只是科普',
+    title: 'Focus on What Matters',
     description: (
       <>
-        我们会尽量不带任何立场的科普药物，我们并不支持或反对药物过量，我们只会客观的呈现药物的效果、原理和危害。
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
@@ -28,8 +30,7 @@ const FeatureList: FeatureItem[] = [
     title: '社区驱动 用💚制作',
     description: (
       <>
-        OverDose.wiki的所有文档以CC-BY-SA 4.0 协议发布发布，所有代码以GPLv3协议开源，
-        我们不对的内容准确性做保证，但是我们随时欢迎您对我们内容的错误进行指正
+        OverDose.wiki的所有文档以CC-BY-SA 4.0 协议发布发布，所有代码以GPLv3协议开源，我们非常欢迎任何人给项目提交贡献以及纠正文档中的错误！
       </>
     ),
   },
