@@ -58,9 +58,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'OverDose.wiki',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Site Logo (Drug)',
           src: 'img/logo.svg',
         },
         items: [
@@ -68,11 +68,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '文档',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/overdose-wiki',
             label: 'GitHub',
             position: 'right',
           },
