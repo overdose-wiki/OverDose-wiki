@@ -26,6 +26,17 @@ function HomepageHeader() {
   );
 }
 
+function HomepageIntroduction() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <section className={styles.introduction}>
+      <div className="container">
+        <p>...</p>
+      </div>
+    </section>
+  );
+}
+
 export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -34,6 +45,8 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <hr />
+        <HomepageIntroduction />
       </main>
     </Layout>
   );
