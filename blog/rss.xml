@@ -4,7 +4,7 @@
         <title>OverDose.wiki Blog</title>
         <link>https://overdose.wiki/blog</link>
         <description>OverDose.wiki Blog</description>
-        <lastBuildDate>Fri, 14 Oct 2022 17:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 17:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[欢迎]]></title>
             <link>https://overdose.wiki/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Fri, 14 Oct 2022 17:18:04 GMT</pubDate>
+            <pubDate>Fri, 14 Oct 2022 17:20:09 GMT</pubDate>
             <description><![CDATA[欢迎访问OverDose.wiki的博客！]]></description>
             <content:encoded><![CDATA[<p>欢迎访问OverDose.wiki的博客！<br>
 <!-- -->这里有一些各种各样文章投稿</p>]]></content:encoded>
