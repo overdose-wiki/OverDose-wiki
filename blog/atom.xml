@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://overdose.wiki/blog</id>
+    <title>OverDose.wiki Blog</title>
+    <updated>2022-10-14T17:18:04.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://overdose.wiki/blog"/>
+    <subtitle>OverDose.wiki Blog</subtitle>
+    <icon>https://overdose.wiki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[欢迎]]></title>
+        <id>welcome</id>
+        <link href="https://overdose.wiki/blog/welcome"/>
+        <updated>2022-10-14T17:18:04.000Z</updated>
+        <summary type="html"><![CDATA[欢迎访问OverDose.wiki的博客！]]></summary>
+        <content type="html"><![CDATA[<p>欢迎访问OverDose.wiki的博客！<br>
+<!-- -->这里有一些各种各样文章投稿</p>]]></content>
+        <author>
+            <name>LostAttractor</name>
+            <uri>https://github.com/lostattractor</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="wiki" term="wiki"/>
+    </entry>
+</feed>

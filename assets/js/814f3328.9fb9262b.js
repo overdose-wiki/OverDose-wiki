@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkover_dose_wiki=self.webpackChunkover_dose_wiki||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u6b22\u8fce","permalink":"/blog/welcome"}]}')}}]);
