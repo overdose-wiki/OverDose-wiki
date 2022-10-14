@@ -67,10 +67,11 @@ const config = {
           {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
             label: '文档',
+            position: 'left',
           },
           {to: '/blog', label: '博客', position: 'left'},
+          {to: '/contribution', label: '贡献', position: 'left'},
           {
             href: 'https://github.com/overdose-wiki',
             label: 'GitHub',
